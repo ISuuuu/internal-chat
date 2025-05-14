@@ -1,11 +1,21 @@
 [
   {
-    "roomId": "房间号",
-    "pwd": "md5(密码)",
+    "roomId": "aa",
+    "pwd": "md5(bdf6742f28080aad09ce7649281a5eaf)",
     "turns": [{
       "urls": [ "url" ],
-      "username": "turn用户名",
-      "credential": "turn密码"
+      "username": "kim",
+      "credential": "kim123"
+    }],
+    "remark": "备注"
+  },
+  {
+    "roomId": "ab",
+    "pwd": "md5(bdf6742f28080aad09ce7649281a5eaf)",
+    "turns": [{
+      "urls": [ "url" ],
+      "username": "kim",
+      "credential": "kim123"
     }],
     "remark": "备注"
   }
